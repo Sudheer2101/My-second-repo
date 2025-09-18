@@ -1,0 +1,3 @@
+Sudheer
+Currently pursuing Bachelors of computer applications 
+I have learned the foundational concepts and practical skills required to use GitHub effectively. Specifically, I am able to create new repositories and add files to them. Through this, I have gained an understanding of version control basics, project structuring, and file management within a repository. These skills form the groundwork for effective collaboration, code sharing, and project tracking on GitHub.
